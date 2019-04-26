@@ -14,3 +14,6 @@ Recommendation system for education - joy,alex,sean and wing
 - [会议](https://recsys.acm.org/)
 
 2018/12/5 - JoyMama 加入了团队
+
+2019/04/26
+- Joy加了一点东西
