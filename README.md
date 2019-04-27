@@ -1,7 +1,7 @@
 ﻿# RecSys-GU
 Recommendation system for education - joy,alex,sean and wing
 
-- [Jianxu](./Sean/daliy.md)
+- [Jianxu](Sean/daliy.md)
 
 ### 推荐系统
 
