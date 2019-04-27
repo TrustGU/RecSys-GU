@@ -1,6 +1,8 @@
 ﻿# RecSys-GU
 Recommendation system for education - joy,alex,sean and wing
 
+- [Jianxu](./Sean/daliy.md)
+
 ### 推荐系统
 
 2018/12/4 - 确定研究方向
