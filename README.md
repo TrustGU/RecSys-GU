@@ -1,7 +1,7 @@
 ﻿# RecSys-GU
 Recommendation system for education - joy,alex,sean and wing
 
-- [Jianxu](https://github.com/TrustGU/RecSys-GU/blob/master/Sean/daily.md)
+- [Jianxu](Sean/daily.md)
 
 ### 推荐系统
 
