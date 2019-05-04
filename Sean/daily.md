@@ -14,9 +14,28 @@
 
 ##### 29
 - 整理有道云收藏夹
-  - Aginx+apache+Jenkins 资料
+    - Aginx+apache+Jenkins 资料
 
 ##### 30
-- [python基础](srcmd/python基础)
+- [python基础](srcmd/python基础.md)
 
+#### 19-05
+
+##### 04
+
+- [推荐系统最新研究进展？请收好这16篇论文](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/82881839)
+
+- Embedding&word2vec
+    - [万物皆Embedding，从经典的word2vec到深度学习基本操作item2vec](https://zhuanlan.zhihu.com/p/53194407)
+    - [Embedding从入门到专家必读的十篇论文](https://zhuanlan.zhihu.com/p/58805184)
+    - [从KDD 2018 Best Paper看Airbnb实时搜索排序中的Embedding技巧](https://zhuanlan.zhihu.com/p/55149901)
+    - [Airbnb如何解决Embedding的数据稀疏问题？](https://zhuanlan.zhihu.com/p/57313656)
+    - [Embedding 在Airbnb房源排序中的应用 (KDD2018 best paper)](https://zhuanlan.zhihu.com/p/57355940)
+    - [详解Embeddings at Alibaba(KDD 2018)](https://zhuanlan.zhihu.com/p/56119617)
+    - [不一样的论文解读2018 KDD best paper: Embeddings at Airbnb](https://zhuanlan.zhihu.com/p/49537461)
+
+- 召回流程
+
+    - [推荐系统二---召回算法和业界最佳实践一](https://blog.csdn.net/weixin_40924580/article/details/85023267)
+    - [信息流推荐算法实践 & 深入](https://blog.csdn.net/dengxing1234/article/details/79756265)
 
