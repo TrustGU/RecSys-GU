@@ -39,13 +39,13 @@
 		- 模型有很多参数是要自己去设定的
 	- 得到item sim关系用于推荐
 - exmple
-	![example](.\img\01.jpg)
+	![example](img/01.jpg)
 
 #### Word2Vec Model
 
 - CBOW(continuous bag of words)
 
-  ![CBOW](.\img\02.jpg)
+  ![CBOW](img/02.jpg)
 
   - 输入，投影，输出
   - 5个词，输入的训练数据w和上下文，投影层将上下文输入的向量加起来，每个词都初始化了一个向量，投影与输出是全连接
