@@ -39,3 +39,11 @@
     - [推荐系统二---召回算法和业界最佳实践一](https://blog.csdn.net/weixin_40924580/article/details/85023267)
     - [信息流推荐算法实践 & 深入](https://blog.csdn.net/dengxing1234/article/details/79756265)
 
+##### 05
+
+- [Deep learning for recommender systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
+
+##### 06
+
+- [PersonalRecAlgorithm](srcmd/PersonalRecAlgorithm.md)
+
