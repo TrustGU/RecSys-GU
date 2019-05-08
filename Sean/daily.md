@@ -47,3 +47,18 @@
 
 - [PersonalRecAlgorithm](srcmd/PersonalRecAlgorithm.md)
 
+##### 08
+
+- [word2vec和word embedding有什么区别?](https://www.zhihu.com/question/53354714)
+
+- [Word Embedding--介绍](https://www.zhihu.com/question/32275069)
+
+- [通俗理解word2vec](https://www.jianshu.com/p/471d9bfbd72f)
+
+- [理解 Word2Vec 之 Skip-Gram 模型](https://zhuanlan.zhihu.com/p/27234078)
+
+- [达观推荐算法实现：协同过滤之item embedding](http://bigdata.51cto.com/art/201704/538286.htm)
+
+- [基于Embedding的推荐系统召回策略](https://www.colabug.com/5499659.html) 
+
+- [深度召回模型在QQ看点推荐中的应用实践](https://cloud.tencent.com/developer/article/1400798)
