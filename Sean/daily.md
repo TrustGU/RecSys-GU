@@ -2,9 +2,14 @@
 
 ### 视频课程
 
-- [推荐系统36式](https://time.geekbang.org/column/intro/74)
-- [PersonalRecAlgorithm](srcmd/PersonalRecAlgorithm.md)
+- [推荐系统36式](srcmd/Rec36.md)
+- [个性化推荐算法](srcmd/PersonalRecAlgorithm.md)
+- [推荐系统算法工程师培训课程54课](srcmd/RecInDL.md)
+- [基于人工智能算法的推荐系统实战](srcmd/RecInDL.md)
+- [大数据技术推荐系统算法案例](srcmd/RecInBD.md)
+- [推荐系统设计原理视频](Untitled.md)
 - [python基础](srcmd/python基础.md)
+- 
 
 ### GroupMeeting
 
