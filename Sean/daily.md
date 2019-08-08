@@ -65,6 +65,10 @@
 ### 补充资料
 
 - [推荐系统会议个人](https://zhuanlan.zhihu.com/p/34004488)
+  - [RecSys](https://recsys.acm.org)
+  	- [2019](https://recsys.acm.org/recsys19/accepted-contributions/)
+  - [SIGKDD](https://www.kdd.org/)
+    - [2019](https://www.kdd.org/kdd2019/accepted-papers) 	 
 - [推荐系统书籍论文应用](http://www.semocean.com/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/)
 - [部分推荐数据集书籍会议](https://www.jianshu.com/p/5585e7fe6062)
   - [movielens](https://grouplens.org/datasets/movielens/)
