@@ -7,11 +7,11 @@
 - [推荐系统算法工程师培训课程54课](srcmd/RecInDL.md)
 - [基于人工智能算法的推荐系统实战](srcmd/RecInDL.md)
 - [大数据技术推荐系统算法案例](srcmd/RecInBD.md)
-- [推荐系统设计原理视频](RecTheo.md)
-- [推荐系统实践三天](RecThreeD.md)
-- [机器学习推荐系统案例](RecML.md)
+- [推荐系统设计原理视频](srcmd/RecTheo.md)
+- [推荐系统实践三天](srcmd/RecThreeD.md)
+- [机器学习推荐系统案例](srcmd/RecML.md)
 
-- [深度学习应用实践60](DL60.md)
+- [深度学习应用实践60](srcmd/DL60.md)
 - [python基础](srcmd/python基础.md)
 - 
 
