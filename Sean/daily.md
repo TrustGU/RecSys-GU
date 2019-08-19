@@ -1,19 +1,21 @@
 ## Not Today
 
-### 视频课程
+### 课程
 
-- [推荐系统36式](srcmd/Rec36.md)
-- [个性化推荐算法实战](srcmd/PersonalRecAlgorithm.md)
-- [推荐系统算法工程师培训课程54课](srcmd/RecInDL.md)
-- [基于人工智能算法的推荐系统实战](srcmd/RecInDL.md)
-- [大数据技术推荐系统算法案例](srcmd/RecInBD.md)
-- [推荐系统设计原理视频](srcmd/RecTheo.md)
-- [推荐系统实践三天](srcmd/RecThreeD.md)
-- [机器学习推荐系统案例](srcmd/RecML.md)
+1. [个性化推荐算法实战](srcmd/PersonalRecAlgorithm.md)
+2. [推荐系统算法工程师培训课程54课](srcmd/RecInDL.md)
+3. [基于人工智能算法的推荐系统实战](srcmd/RecInAI.md)
+4. [基于大数据技术推荐系统算法案例实战视频](srcmd/RecInBD.md)
+5. [推荐系统设计原理视频九周](srcmd/RecTheo.md)
+6. [推荐系统实践三天](srcmd/RecThreeD.md)
+7. [机器学习推荐系统案例july](srcmd/RecML.md)
+8. [IDEA版大数据项目之推荐系统](srcmd/BDIDEAInRec.md)
 
-- [深度学习应用实践60](srcmd/DL60.md)
-- [python基础](srcmd/python基础.md)
-- 
+### 教程
+
+1. [极客时间推荐系统三十六式](srcmd/Rec36.md)
+2. [深度学习应用实践60讲-AICon人工智能专家团](srcmd/DL60.md)
+3. [零基础学Python视频教程](srcmd/python基础.md)
 
 ### GroupMeeting
 
